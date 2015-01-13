@@ -1,6 +1,7 @@
-# snippets-prog
+# snippets-prog  
 my snippets and some programs 
 useful for learning programming
+this is a work in progress
 
 
 ###Index
